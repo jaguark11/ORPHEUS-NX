@@ -1,0 +1,12 @@
+{
+  "window_size": 48,
+  "contamination": 0.03,
+  "graph_tau": 0.7,
+  "graph_neighbors": 4,
+  "robust_weight": 0.28,
+  "isolation_weight": 0.27,
+  "graph_weight": 0.30,
+  "change_weight": 0.15,
+  "alert_quantile": 0.985,
+  "random_state": 42
+}
